@@ -1,6 +1,4 @@
-package DSA;
-
-public class second_Largest_Number {
+public class secondLargestNumber {
     public static int[] getSecondOrderElements(int n, int []a) {
         int res[] = new int[2];
 
@@ -54,4 +52,12 @@ public class second_Largest_Number {
         res[0] = sLargest;
         return res;
     }
+
+     public static void main(String[] args) {
+        int arr[] = {1,2,3,4,5,6,7,8,9};
+        int res[] = getSecondOrderElements(9, arr);
+        System.out.println("2nd Largest element is: "+ res[0]);
+        System.out.println("2nd Smallest element is: "+ res[1]);
+     }   
+
 }
