@@ -1,1 +1,19 @@
 This contains the Data Structures and Algoirthms 
+- Basics
+- Sorting Techniques
+- Arrays (1D, 2D)
+- Binary Search (1D, 2D)
+- Strings (Basic and Medium)
+- Linked List (Single LL, Double LL, Circular LL)
+- Recursion
+- Bit Manipulation
+- Stacks and Queues
+- Sliding Window and 2-Pointers
+- Heaps
+- Greedy Alogrithms
+- Binary Trees
+- Binary Search Trees
+- Graphs
+- Dynamic Programming
+- Tries
+- Strings (Hard Problems)
