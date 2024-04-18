@@ -1,4 +1,4 @@
-This contains the Data Structures and Algoirthms 
+This will contain the following Data Structures and Algoirthms RoadMap:
 - Basics
 - Sorting Techniques
 - Arrays (1D, 2D)
