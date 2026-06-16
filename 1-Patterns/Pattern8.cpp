@@ -1,8 +1,11 @@
 /*
 Reverse pascel traingle
-
-
-
+Enter the value of n: 5
+* * * * * * * * * 
+  * * * * * * * 
+    * * * * * 
+      * * * 
+        * 
 */
 
 
